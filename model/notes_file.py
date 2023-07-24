@@ -1,7 +1,7 @@
 import datetime
 import json
 from typing import List
-from model.note import AbstractNote
+from model.abstract_note import AbstractNote
 
 
 class NotesFile:

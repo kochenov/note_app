@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from model.note import AbstractNote
+from model.abstract_note import AbstractNote
 from model.notes_file import NotesFile
 from typing import List
 
